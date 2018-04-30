@@ -77,24 +77,19 @@ function replacePlayer(e,rID,height="100%"){
 Please reverse the blank space below！
 
 ```javascript
-//提取自风沙娱乐http://www.fengshayun.cn
-"http://api.xfsub.com/index.php?url=",
-"http://vip.jlsprh.com/index.php?url=",
-"http://jx.vgoodapi.com/jx.php?url=",
-"http://api.wlzhan.com/sudu/?url=",
-"http://v.buy360.vip/cxjx.php?v=",
-"http://vip.72du.com/api/?url=",
-"http://api.nepian.com/ckparse/?url=",
-"http://api.91exp.com/svip/?url=",
-"http://qtzr.net/s/?qt=",
-"http://www.chepeijian.cn/jiexi/vip.php?url=",
-"http://www.wmxz.wang/video.php?url=",
-"http://api.baiyug.cn/vip/index.php?url=",
-"http://player.jidiaose.com/supapi/iframe.php?v=",
-"http://api.pucms.com/index.php?url=",
-"http://jiexi.92fz.cn/player/vip.php?url=",
-"http://lookxw.com/yingzi/?url=",
-"http://api.97kn.com/?url=",
+//接口示例
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",
+"http://example.example.com/index.php?url=",  
 ```
 
 ## 三、获取文件地址
