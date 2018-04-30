@@ -9,11 +9,11 @@ https://jingyan.baidu.com/article/8cdccae9269b1f315413cde2.html
 
 ## 二、 创建一个vip.js文件，并将以下代码拷贝进去
 1.在仓库中创建脚本文件
-![](./创建脚本文件.png)
+![](./img/创建脚本文件.png)
 2.复制代码
-![](./复制代码.png)
+![](./img/复制代码.png)
 3.完成
-![](./完成.png)
+![](./img/完成.png)
 
 ```javascript
 var thisURL = window.location.href,inum=1,vipOption;
@@ -51,7 +51,7 @@ newNode.innerHTML = '<option selected="selected" disabled="disabled">切换VIP�
 if (index!=0){
   newNode.selectedIndex=index;
   setTimeout(function () {
-    var event = document.createEvent("UIEvents"); 
+    var event = document.createEvent("UIEvents");
     event.initUIEvent("change", true, true);      
     newNode.dispatchEvent(event);
   }, 1000);
@@ -99,7 +99,7 @@ Please reverse the blank space below！
 
 ## 三、获取文件地址
 点击vip.js,并遵照图示获取地址
-![](./获取js地址.png)
+![](./img/获取js地址.png)
 地址示例：
 https://raw.githubusercontent.com/zhendebucunzaidegithubzhanghu/koolproxy_vip_js/master/vip.js
 
